@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
-  <pyqgis_plugin name="centroid2distance" version="1.0">
+  <pyqgis_plugin name="centroid2distance" version="0.2.0">
     <description>Calculate distance from centroid</description>
     <about>Centroid to distance analysis tool</about>
     <qgis_minimum_version>3.22</qgis_minimum_version>
@@ -13,7 +13,7 @@
     </download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="CJx_Ratio" version="1.0">
+  <pyqgis_plugin name="CJx_Ratio" version="1.1.1">
     <description>CJ Expansion Ratio Analysis</description>
     <about>Ratio calculation tool for CJ site analysis</about>
     <qgis_minimum_version>3.22</qgis_minimum_version>
@@ -25,7 +25,7 @@
     </download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="cjx_csv2geojson" version="1.0">
+  <pyqgis_plugin name="cjx_csv2geojson" version="1.1.0">
     <description>Convert CSV to GeoJSON</description>
     <about>CSV to GeoJSON converter for spatial workflow</about>
     <qgis_minimum_version>3.22</qgis_minimum_version>
@@ -37,7 +37,7 @@
     </download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="export_data_kml_gpkg" version="1.06">
+  <pyqgis_plugin name="export_data_kml_gpkg" version="1.0.6">
     <description>Export to KML and GPKG</description>
     <about>Export spatial data to KML and GPKG formats</about>
     <qgis_minimum_version>3.22</qgis_minimum_version>
