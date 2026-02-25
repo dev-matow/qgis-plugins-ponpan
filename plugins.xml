@@ -49,7 +49,7 @@
     </download_url>
   </pyqgis_plugin>
 
-    <pyqgis_plugin name="gsheets_points_loader" version="1.0.1">
+    <pyqgis_plugin name="gsheets_points_loader" version="1.0.2">
     <description>import to qgis</description>
     <about>import to qgis</about>
     <qgis_minimum_version>3.22</qgis_minimum_version>
